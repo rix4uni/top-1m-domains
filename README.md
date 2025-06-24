@@ -8,42 +8,42 @@ Please feel free to send a pull request for any other free and downloadable top 
 
 ## Lists
 
-### Alexa
+### Alexa (Deprecated)
+- Download Page: https://alexa.com/
+- Download Link: http://web.archive.org/web/20230731120013/https://s3.amazonaws.com/alexa-static/top-1m.csv.zip
+- Backup Download Link: https://github.com/rix4uni/top-1m-domains/raw/refs/heads/master/alexa.csv.gz
 
-- Download page: https://alexa.com/ (End of Service at middle of 2022)
-- Download link: https://s3.amazonaws.com/alexa-static/top-1m.csv.zip
-
-### Cisco Umbrella
-
-- Download page: https://s3-us-west-1.amazonaws.com/umbrella-static/index.html
-- Download link: https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip
+### Cisco Umbrella (Deprecated)
+- Download Page: https://s3-us-west-1.amazonaws.com/umbrella-static/index.html
+- Download Link: https://web.archive.org/web/20250615164450/https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip
+- Backup Download Link: https://github.com/rix4uni/top-1m-domains/raw/refs/heads/master/cisco.csv.gz
 
 ### Majestic
-
-- Download page: https://majestic.com/reports/majestic-million
-- Download link: https://downloads.majestic.com/majestic_million.csv
+- Download Page: https://majestic.com/reports/majestic-million
+- Download Link: https://downloads.majestic.com/majestic_million.csv
+- Backup Download Link: https://github.com/rix4uni/top-1m-domains/raw/refs/heads/master/majestic.csv.gz
 
 ### BuiltWith
+- Download Page: https://builtwith.com/top-1m
+- Download Link: https://builtwith.com/dl/builtwith-top1m.zip
+- Backup Download Link: https://github.com/rix4uni/top-1m-domains/raw/refs/heads/master/builtwith.csv.gz
 
-- Download page: https://builtwith.com/top-1m
-- Download link: https://builtwith.com/dl/builtwith-top1m.zip
-
-### Statvoo
-
-- Download page: https://statvoo.com/top/ranked
-- Download link: https://statvoo.com/dl/top-1million-sites.csv.zip
+### Statvoo (Deprecated)
+- Download Page: https://statvoo.com/top/ranked
+- Download Link: https://statvoo.com/dl/top-1million-sites.csv.zip
+- Backup Download Link: https://github.com/rix4uni/top-1m-domains/raw/refs/heads/master/statvoo.csv.gz
 
 ### DomCop
-
-- Download page: https://www.domcop.com/top-10-million-websites
-- Download link: https://www.domcop.com/files/top/top10milliondomains.csv.zip
+- Download Page: https://www.domcop.com/top-10-million-websites
+- Download Link: https://www.domcop.com/files/top/top10milliondomains.csv.zip
+- Backup Download Link: https://github.com/rix4uni/top-1m-domains/raw/refs/heads/master/domcop.csv.gz
 
 ### Tranco
-
-- Download page: https://tranco-list.eu/
-- Download link: https://tranco-list.eu/top-1m.csv.zip
+- Download Page: https://tranco-list.eu/
+- Download Link: https://tranco-list.eu/top-1m.csv.zip
+- Backup Download Link: https://github.com/rix4uni/top-1m-domains/raw/refs/heads/master/tranco.csv.gz
 
 ### Cloudflare
-
-- Download page: https://radar.cloudflare.com/domains
-- Download link: https://radar.cloudflare.com/charts/LargerTopDomainsTable/attachment?id=1257&top=1000000
+- Download Page: https://radar.cloudflare.com/domains
+- Download Link: https://radar.cloudflare.com/charts/TopDomainsTable/attachment?id=2022&value=1000000
+- Backup Download Link: https://github.com/rix4uni/top-1m-domains/raw/refs/heads/master/cloudflare.csv.gz
