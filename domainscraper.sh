@@ -35,6 +35,16 @@ gzip tranco.csv
 # https://radar.cloudflare.com/charts/TopDomainsTable/attachment?id=2022&value=1000000
 # mv temp/*.csv* cloudflare.csv && gzip cloudflare.csv
 
+# https://commoncrawl.org/web-graphs
+curl -s "https://data.commoncrawl.org/projects/hyperlinkgraph/cc-main-2025-apr-may-jun/host/cc-main-2025-apr-may-jun-host-ranks.txt.gz" \
+| zcat \
+| head -n100 \
+| awk '{print $3, $5}' \
+| sort -n \
+| python3 -c "import sys; [print(f'{line.split()[0]} ' + '.'.join(line.split()[1].split('.')[::-1])) for line in sys.stdin]" \
+| unew -el -i -t -q CommonCrawl.txt
+
+
 rm -rf temp
 
 
